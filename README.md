@@ -17,4 +17,5 @@ Préposition | `prép.` | 35
 Déterminant | `dét.` | 21
 Conjonction | `conj.` | 19
 Numérique | `numér.` | 18
+Interjection | `interj.` | 3
 Total | | 1499
